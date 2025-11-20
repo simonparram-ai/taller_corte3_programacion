@@ -137,7 +137,3 @@ taller_corte3_programacion/
 5. Abrir `dashboard_taller_corte3.pbix`  
 
 ---
-
-## ✔️ 7. Entrega
-
-En la plataforma (Teams) se entrega **únicamente el enlace del repositorio público** de GitHub.
