@@ -10,7 +10,7 @@ Se integran tres bases de datos: TRM (real), empresas (inventada) y población p
 ---
 
 ## 👥 Integrantes
-- (Escribir aquí los nombres del grupo)
+- Simon parra, Juan Gomez, Antonio
 
 ---
 
